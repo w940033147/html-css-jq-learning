@@ -1,0 +1,37 @@
+div#wrapper {
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+
+	/* make the page smaller than the common browser width */
+	width: 960px;
+
+	/* center this div in the browser */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.clear {
+       /* clearfix hack */
+       clear: both;
+}
+
+header {
+	background-color: rgb(67, 219, 239);
+	height:60px
+}
+
+nav {
+	background-color: rgb(255, 255, 255);
+	width: 320px;
+	float: left;
+}
+
+section {
+	background-color: rgb(199, 189, 199);
+	width: 640px;
+	float: left;
+}
+
+footer {
+	background-color: rgb(248, 248, 249);
+}

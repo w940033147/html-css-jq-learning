@@ -1,0 +1,6 @@
+{
+  "name": "Tianyewang",
+  "nyu_net_id": "yw5460",
+  "site_url": "https://i6.cims.nyu.edu/~yw5460/responsive_design_exercise_Tianyewang/about_me.html",
+  "responsive_column_selectors": [".column1", ".column2", ".column3"]
+}

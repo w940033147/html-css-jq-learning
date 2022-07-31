@@ -1,0 +1,20 @@
+{
+  "name": "Tianyewang",
+  "nyu_net_id": "yw5460",
+  "site_url": "https://i6.cims.nyu.edu/~yw5460/jquery_intro_Tianyewang/topic_of_interest.html",
+  "jquery_settings": {
+    "content_change": {
+      "trigger_element_selector": "input#button1",
+      "trigger_event": "mouseover",
+      "target_element_selector": "p#paragraph1"
+    },
+    "image_swap": {
+      "trigger_element_selector": "img#question1"
+    },
+    "animation": {
+      "trigger_element_selector": "img#question2",
+      "trigger_event": "click",
+      "target_element_selector": "img#question2"
+    }
+  }
+}

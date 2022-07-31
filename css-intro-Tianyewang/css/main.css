@@ -1,0 +1,40 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1,h2,h3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+}
+
+a:link {
+    background-color: yellow;
+  }
+  
+  a:visited {
+    background-color: cyan;
+  }
+  
+  a:hover {
+    background-color: lightgreen;
+  }
+  
+  a:active {
+    background-color: hotpink;
+  } 
+
+  section.a {
+	padding-top: 20px;
+	margin-bottom: 10px;
+    border-style: double;
+
+  }
+
+  #my_background {
+    background-color: yellow;
+  }
+
+  #my_interests {
+    background-color:lightgreen;
+  }
